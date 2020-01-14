@@ -1,0 +1,254 @@
+
+ 
+S3 Gestão Profissional - Radio Memory
+
+Listagem de Clientes
+Cliente   	
+
+Nome:
+Jose Moraes Neves
+
+Nascimento:
+27/11/1986
+Sexo:	Masculino
+CPF:
+
+Logradouro:
+Bairro:
+
+
+Cidade:
+Número:
+CEP:
+Complemento:
+UF:
+Telefones: 
+Alerta Médico:
+Convênio:
+976649684
+
+Orthopride
+
+E-Mail:
+
+Carteira:
+
+Resp. Fin.:
+
+
+CPF Resp.Fin.:
+
+Nome:
+Lorraine Martins Oliveira
+
+
+
+Nascimento:
+30/12/1990
+Sexo:	Feminino
+CPF:
+
+Logradouro:
+Bairro:
+
+
+Cidade:
+Número:
+CEP:
+Complemento:
+UF:
+Telefones: 
+Alerta Médico:
+Convênio:
+987902558
+
+Orthopride
+
+E-Mail:
+
+Carteira:
+
+Resp. Fin.:
+
+
+CPF Resp.Fin.:
+
+
+Nome:	Maria Lucia Pianissola de Moraes
+Nascimento:
+26/10/1959
+Sexo:
+Feminino
+CPF:
+021.594.327-92
+Logradouro:
+Bairro:
+
+
+Cidade:
+
+Número:
+CEP:
+Complemento:
+UF:
+Telefones:
+Alerta Médico:
+32921088
+
+
+E-Mail:
+
+
+
+Convênio:
+
+
+Particular
+
+
+Carteira:
+
+
+Resp. Fin.:	CPF Resp.Fin.:
+
+
+
+Nome:
+Nascimento:
+ 
+
+Maycom 
+Lopes de 
+Oliveira 
+10/03/2000
+
+
+
+Sexo:
+
+
+
+Masculino
+
+
+
+CPF:
+	18
+3.581.627-
+40
+
+
+Logradouro:	Número:	Complemento:
+Bairro:	Cidade:	CEP:	UF:
+
+
+Telefones: 
+Alerta Médico: 
+Convênio:
+
+
+33848881
+
+Orthopride
+
+
+E-Mail:
+
+Carteira:
+
+
+Resp. Fin.:	CPF Resp.Fin.:
+
+
+
+Nome:
+Nascimento:
+ 
+
+Michele dos 
+Santos 
+Pereira 
+25/10/1980
+
+
+
+Sexo:
+
+
+
+Feminino
+
+
+
+CPF:
+
+
+Logradouro:	Número:	Complemento:
+Bairro:	Cidade:	CEP:	UF:
+
+
+Telefones: 
+Alerta Médico: 
+Convênio:
+
+
+965100230
+
+Clinica L V - 
+Lilian Vasques
+
+
+E-Mail:
+
+Carteira:
+
+
+Resp. Fin.:	CPF Resp.Fin.:
+
+
+
+Nome:
+Nascimento:
+ 
+
+Monica 
+Felipe 
+Quirino 
+19/05/1977
+
+
+
+Sexo:
+
+
+
+Feminino
+
+
+
+CPF:
+
+
+Logradouro:	Número:	Complemento:
+Bairro:	Cidade:	CEP:	UF:
+Telefones:	E-Mail:
+Alerta Médico:
+
+
+Convênio:
+
+
+Particular
+
+
+Carteira:
+
+
+Resp. Fin.:	CPF Resp.Fin.:
+
+
+
+
+
+
+05/08/2019 15:55:49	Pagina:3
